@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  Console.cpp
+  InputManager.cpp
+  Main.cpp
+  Map.cpp
+  Player.cpp
+  rc_ImageLoader.cpp
+  rc_PCXLoader.cpp
+  rc_texture.cpp
+  rc_TextureManager.cpp
+  Renderer.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 263 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  RayCaster.vcxproj -> C:\Users\georg\OneDrive\Documents\GitHub\ct4028-assignment-GDLinford\x64\Release\RayCaster.exe

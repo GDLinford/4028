@@ -1,0 +1,10 @@
+#ifndef _DEFINITIONS_H_
+#define _DEFINITIONS_H_
+
+#define CONSOLE_X_POS 20
+#define CONSOLE_Y_POS 180
+#define CONSOLE_WIDTH 120
+#define CONSOLE_HEIGHT 40
+
+
+#endif // !_DEFINITIONS_H_
